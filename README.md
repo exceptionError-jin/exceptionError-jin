@@ -9,7 +9,7 @@
 👶 1998.02.16 <br>
 📞 010-9822-4849 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjin9822@naver.com)](mailto:kimjin9822@naver.com) <span><a href="https://www.notion.so/616157e577c54c20a04f242238e67801"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjin9822@naver.com)](mailto:kimjin9822@naver.com) <span><a href="https://best-pancreas-d47.notion.site/410fd27df7e44beab16d3ea351c7d69e?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
