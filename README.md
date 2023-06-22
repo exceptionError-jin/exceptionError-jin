@@ -1,6 +1,6 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jin's%20Github&fontSize=60"/>
-</div>
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=uoayop&fontAlignY=40&fontSize=100&desc=ꉂꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling)
 
 
 ## Profile
